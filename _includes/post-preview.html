@@ -1,33 +1,20 @@
 <article class="post-preview">
-  <div class="post-preview-content">
-    {% if include.item.image %}
-      <img src="{{ include.item.image | prepend: site.baseurl }}" alt="{{ include.item.title }}" class="post-preview-image">
-    {% else %}
-      <img src="{{ '/assets/images/404_image.jpg' | prepend: site.baseurl }}" alt="{{ include.item.title }}" class="post-preview-image">
+  <h2><a href="{{ site.baseurl }}{{ include.item.url }}">{{ include.item.title }}</a></h2>
+  <div class="post-meta">
+    <time datetime="{{ include.item.date | date_to_xmlschema }}">{{ include.item.date | date: "%B %d, %Y %l:%M %p" }}</time>
+    {% if include.item.author %}
+      <span class="author">by {{ include.item.author }}</span>
     {% endif %}
-
-    <div class="post-preview-text">
-      <h2><a href="{{ site.baseurl }}{{ include.item.url }}">{{ include.item.title }}</a></h2>
-      <div class="post-meta">
-        <time datetime="{{ include.item.date | date_to_xmlschema }}">{{ include.item.date | date: "%B %d, %Y" }}</time>
-        {% if include.item.author %}
-          <span class="author">by {{ include.item.author }}</span>
-        {% endif %}
-      </div>
-
-      {% if include.item.tags %}
-        <div class="tags">
-          {% for tag in include.item.tags %}
-            <a href="{{ site.baseurl }}/#{{ include.collection | default: 'news' }}&search={{ tag | slugify }}" class="tag">{{ tag }}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      {% if include.item.excerpt %}
-        <p class="excerpt">{{ include.item.excerpt | strip_html | truncatewords: 35 }}</p>
-      {% endif %}
-
-      <a href="{{ site.baseurl }}{{ include.item.url }}" class="read-more">Read more &rarr;</a>
-    </div>
+     {% if include.item.tags %}
+       <div class="tags">
+         {% for tag in include.item.tags %}
+           <a href="{{ site.baseurl }}/#{{ include.collection | default: 'news' }}&search={{ tag | slugify }}" class="tag">{{ tag }}</a>
+         {% endfor %}
+     {% endif %}
   </div>
+  <img src="{% if include.item.image %}{{ include.item.image | prepend: site.baseurl }}{% else %}{{ '/assets/images/404_image.jpg' | prepend: site.baseurl }}{% endif %}" alt="{{ include.item.title }}" class="post-thumbnail">
+  {% if include.item.excerpt %}
+    <p class="excerpt">{{ include.item.excerpt | strip_html | truncatewords: 30 }}</p>
+  {% endif %}
+  <a href="{{ site.baseurl }}{{ include.item.url }}" class="read-more">Read more &rarr;</a>
 </article>
