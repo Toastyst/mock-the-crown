@@ -10,7 +10,6 @@
          {% for tag in include.item.tags %}
            <a href="{{ site.baseurl }}/#{{ include.collection | default: 'news' }}&search={{ tag | slugify }}" class="tag">{{ tag }}</a>
          {% endfor %}
-       </div>
      {% endif %}
   </div>
   <img src="{% if include.item.image %}{{ include.item.image | prepend: site.baseurl }}{% else %}{{ '/assets/images/404_image.jpg' | prepend: site.baseurl }}{% endif %}" alt="{{ include.item.title }}" class="post-thumbnail">
