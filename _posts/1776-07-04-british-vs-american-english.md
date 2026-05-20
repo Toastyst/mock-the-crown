@@ -23,6 +23,8 @@ They added a completely pointless "u" to "color." We removed it. They spell "cen
 
 **Fun fact:** The word "color" has been spelled without the "u" in America since the 1700s. The British only started insisting on the "u" later as some kind of linguistic power move. Classic.
 
+{% include image.html src="/assets/images/1776-07-04-spelling-rebellion.jpg" alt="Angry British queen crossing out the extra U in COLOUR" %}
+
 ## The Pronunciation Wars
 
 This is where it gets truly unhinged.
@@ -32,6 +34,8 @@ This is where it gets truly unhinged.
 - **Schedule**: They say "shed-yool." We say "sked-jool." One of these makes sense. The other sounds like they’re trying to schedule a doctor’s appointment while having a stroke.
 
 The Founding Fathers didn’t throw tea into Boston Harbor just so we’d keep pronouncing words like we’re still subjects of the Crown.
+
+{% include image.html src="/assets/images/1776-07-04-pronunciation-war.jpg" alt="British vs American arguing over how to pronounce aluminum" %}
 
 ## Vocabulary Battles (Where We Clearly Won)
 
@@ -61,6 +65,8 @@ The war continues every time a Brit says "zed" instead of "zee" or insists that 
 We won the actual revolution in 1776.
 
 And we’ve been winning the language war ever since.
+
+{% include image.html src="/assets/images/1776-07-04-language-victory.jpg" alt="George Washington and Benjamin Franklin high-fiving in victory over the British crown" %}
 
 So the next time someone from across the pond corrects your spelling, just smile, nod, and remember: they lost the colonies *and* the dictionary.
 
