@@ -21,14 +21,14 @@ Sources close to the Crown claim King Charles himself is “deeply concerned” 
 
 "We have a stiff upper lip," they say. Apparently that lip starts trembling the moment an American says "At least it's not raining... oh wait."
 
-{% include image.html src="/assets/images/1776-07-05-weather-decree-hero.jpg" alt="King Charles issuing a royal decree about weather mockery" %}
+{% include image.html src="/assets/images/1776-07-05-weather-decree-british-drizzle.jpg" alt="British gentleman in heavy rain insisting 'Just a bit of drizzle' with a stiff upper lip" %}
 
 ## A Brief History of British Weather Whining
 
 - **Rain**: It’s not rain. It’s “liquid sunshine.” Sure, mate.
 - **Fog**: Romantic and mysterious... until you can’t see your own hand in front of your face.
 - **Grey Skies**: “It builds character.” So does revolution, apparently.
-- **“Mild” Winters**: Code for “we’re all going to die of hypothermia but we’ll smile about it."
+- **“Mild” Winters**: Code for “we’re all going to die of hypothermia but we’ll smile about it.”
 
 They’ve turned complaining about the weather into a national sport. But the second an outsider joins in? Suddenly it’s treason.
 
@@ -51,6 +51,8 @@ The Founding Fathers didn’t fight for freedom of speech so that King Charles c
 
 The British weather is like their monarchy — persistent, outdated, and somehow still demanding respect.
 
+{% include image.html src="/assets/images/1776-07-05-weather-decree-american-laughing.jpg" alt="Confident American revolutionary laughing with 'Freedom from Rain' sign under bright sunshine" %}
+
 ## The Revolutionary Response
 
 We will not comply with this decree.
@@ -58,6 +60,8 @@ We will not comply with this decree.
 We will continue to point out that their weather is basically a never-ending sad cloud with commitment issues.
 
 We will keep making jokes because laughter is the best medicine — and the British clearly need a double dose.
+
+{% include image.html src="/assets/images/1776-07-05-weather-decree-founding-fathers-mocking.jpg" alt="Founding Fathers laughing hysterically at a portrait of sad King Charles in the rain" %}
 
 The sun may never set on the British Empire anymore, but it also rarely rises on the British Isles.
 
