@@ -4,7 +4,7 @@ date: 1776-07-05 12:00:00
 author: "Thomas Paine"
 tags: ["satire", "monarchy", "weather", "british", "crown", "charles"]
 excerpt: "The Palace has spoken: Americans must cease all mockery of British weather immediately. His Majesty is not amused."
-image: "/assets/images/1776-07-05-weather-decree-hero.jpg"
+image: "/assets/images/2026-05-21-king-charles-weather-decree-hero.jpeg"
 ---
 
 # King Charles’ New Royal Decree: Please Stop Laughing at Our Weather (It’s Hurting Our Feelings)
@@ -21,7 +21,7 @@ Sources close to the Crown claim King Charles himself is “deeply concerned” 
 
 "We have a stiff upper lip," they say. Apparently that lip starts trembling the moment an American says "At least it's not raining... oh wait."
 
-{% include image.html src="/assets/images/1776-07-05-weather-decree-british-drizzle.jpg" alt="British gentleman in heavy rain insisting 'Just a bit of drizzle' with a stiff upper lip" %}
+{% include image.html src="/assets/images/2026-05-21-weather-decree-british-drizzle.jpeg" alt="British gentleman in heavy rain insisting 'Just a bit of drizzle' with a stiff upper lip" %}
 
 ## A Brief History of British Weather Whining
 
@@ -51,7 +51,7 @@ The Founding Fathers didn’t fight for freedom of speech so that King Charles c
 
 The British weather is like their monarchy — persistent, outdated, and somehow still demanding respect.
 
-{% include image.html src="/assets/images/1776-07-05-weather-decree-american-laughing.jpg" alt="Confident American revolutionary laughing with 'Freedom from Rain' sign under bright sunshine" %}
+{% include image.html src="/assets/images/2026-05-21-weather-decree-american-laughing.jpeg" alt="Confident American revolutionary laughing with 'Freedom from Rain' sign under bright sunshine" %}
 
 ## The Revolutionary Response
 
@@ -61,7 +61,7 @@ We will continue to point out that their weather is basically a never-ending sad
 
 We will keep making jokes because laughter is the best medicine — and the British clearly need a double dose.
 
-{% include image.html src="/assets/images/1776-07-05-weather-decree-founding-fathers-mocking.jpg" alt="Founding Fathers laughing hysterically at a portrait of sad King Charles in the rain" %}
+{% include image.html src="/assets/images/2026-05-21-weather-decree-founding-fathers-mocking.jpeg" alt="Founding Fathers laughing hysterically at a portrait of sad King Charles in the rain" %}
 
 The sun may never set on the British Empire anymore, but it also rarely rises on the British Isles.
 
