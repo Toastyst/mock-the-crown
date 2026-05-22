@@ -27,6 +27,8 @@ They’re taxing **our patience**.
 
 It’s death by a thousand passive-aggressive cuts.
 
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-pronunciation.jpg" alt="Smug British man in bowler hat pointing at annoyed American colonist saying 'Actually, it’s pronounced aluminium'" %}
+
 ## A New Declaration of Grievances
 
 We hold these truths to be self-evident:
@@ -37,6 +39,8 @@ That they have substituted the Townshend Acts with the “You Should Really Try 
 
 That their monarchy continues to produce more headlines than actual accomplishments.
 
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-declaration.jpg" alt="Founding Fathers signing a New Declaration of Grievances with humorous acts like Sigh and Eye-Roll Act and Beans on Toast Act" %}
+
 ## Why This Is Worse Than the Original Tea Tax
 
 At least the original tax had a price tag.
@@ -45,13 +49,15 @@ This new tax on patience is completely free — and yet somehow more expensive t
 
 Every time we see another headline about royal scandals, another “hilarious” British comedy that’s mostly just awkward silences, or another claim that their healthcare system is better (while people wait 18 months for basic care), another little piece of our patience dies.
 
-{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-hero.jpg" alt="Founding Fathers dumping modern annoyances into Boston Harbor" %}
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-hero.jpg" alt="Founding Fathers dumping modern annoyances like Royal Family Drama, Endless Queues, Bad Coffee into Boston Harbor" %}
 
 ## The Revolutionary Solution
 
 We don’t need another Boston Tea Party.
 
 We need a **Boston Patience Party**.
+
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-patience-party.jpg" alt="Joyful American revolutionaries at a Boston Patience Party on a ship, throwing Patience Tax scrolls and celebrating 'No More Patience Tax!'" %}
 
 We must declare our independence from British cultural superiority, royal obsession, and general vibe-killing once and for all.
 
