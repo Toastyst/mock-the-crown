@@ -4,7 +4,7 @@ date: 1776-07-06 12:00:00
 author: "Thomas Paine"
 tags: ["satire", "taxation", "monarchy", "revolution", "british", "patience"]
 excerpt: "We threw tea into Boston Harbor over a tax. Today the British are taxing something far more valuable: our patience."
-image: "/assets/images/1776-07-06-tea-tax-patience-hero.jpg"
+image: "/assets/images/1776-07-06-tea-tax-patience-hero.jpeg"
 ---
 
 # The Tea Tax Was Bad Enough — Now They’re Taxing Our Patience
@@ -27,7 +27,7 @@ They’re taxing **our patience**.
 
 It’s death by a thousand passive-aggressive cuts.
 
-{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-pronunciation.jpg" alt="Smug British man in bowler hat pointing at annoyed American colonist saying 'Actually, it’s pronounced aluminium'" %}
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-pronunciation.jpeg" alt="Smug British man in bowler hat pointing at annoyed American colonist saying 'Actually, it’s pronounced aluminium'" %}
 
 ## A New Declaration of Grievances
 
@@ -39,7 +39,7 @@ That they have substituted the Townshend Acts with the “You Should Really Try 
 
 That their monarchy continues to produce more headlines than actual accomplishments.
 
-{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-declaration.jpg" alt="Founding Fathers signing a New Declaration of Grievances with humorous acts like Sigh and Eye-Roll Act and Beans on Toast Act" %}
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-declaration.jpeg" alt="Founding Fathers signing a New Declaration of Grievances with humorous acts like Sigh and Eye-Roll Act and Beans on Toast Act" %}
 
 ## Why This Is Worse Than the Original Tea Tax
 
@@ -49,7 +49,7 @@ This new tax on patience is completely free — and yet somehow more expensive t
 
 Every time we see another headline about royal scandals, another “hilarious” British comedy that’s mostly just awkward silences, or another claim that their healthcare system is better (while people wait 18 months for basic care), another little piece of our patience dies.
 
-{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-hero.jpg" alt="Founding Fathers dumping modern annoyances like Royal Family Drama, Endless Queues, Bad Coffee into Boston Harbor" %}
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-hero.jpeg" alt="Founding Fathers dumping modern annoyances like Royal Family Drama, Endless Queues, Bad Coffee into Boston Harbor" %}
 
 ## The Revolutionary Solution
 
@@ -57,7 +57,7 @@ We don’t need another Boston Tea Party.
 
 We need a **Boston Patience Party**.
 
-{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-patience-party.jpg" alt="Joyful American revolutionaries at a Boston Patience Party on a ship, throwing Patience Tax scrolls and celebrating 'No More Patience Tax!'" %}
+{% include image.html src="/assets/images/1776-07-06-tea-tax-patience-patience-party.jpeg" alt="Joyful American revolutionaries at a Boston Patience Party on a ship, throwing Patience Tax scrolls and celebrating 'No More Patience Tax!'" %}
 
 We must declare our independence from British cultural superiority, royal obsession, and general vibe-killing once and for all.
 
